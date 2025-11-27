@@ -166,3 +166,33 @@ TORINVEST/
 └── /indicators
 ├── forge-macro-compass.pine
 └── upcoming-tools.md
+
+
+---
+
+# ☕ Contribution
+
+Toute contribution (dev, IA, bot, pédagogie, design, recherche) est la bienvenue.  
+Les contributeurs pourront être récompensés en :
+
+- **KRM** → utilité immédiate  
+- **ORAX** → valeur éducative  
+- **TOR TOKEN** → innovation long terme (2027–2028)
+
+---
+
+# 📬 Liens Officiels
+
+- **Site Web :** https://torinvest-trading.com  
+- **Discord :** (prochainement public)  
+- **Whitepaper :** à venir (2026)
+
+---
+
+# 🛡️ Disclaimer
+Projet éducatif et expérimental.  
+Pas de conseil en investissement.  
+Pas de promesse de gains.  
+TORINVEST repose sur la discipline, la méthode et la compréhension macro.
+
+
