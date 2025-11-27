@@ -140,3 +140,29 @@ Ce token sera introduit uniquement lorsque l'écosystème KRM/ORAX sera pleineme
 
 # 🧱 Structure du Repo
 
+TORINVEST/
+│
+├── README.md
+│
+├── /assets
+│ ├── logo.png
+│ ├── banner.png
+│ └── schema_tokennomics.png
+│
+├── /tokenomics
+│ ├── KRM.md
+│ ├── ORAX.md
+│ └── TOR.md
+│
+├── /whitepaper
+│ └── draft-v1.md
+│
+├── /ecosystem
+│ ├── forge.md
+│ ├── salle-de-marche.md
+│ ├── coaching.md
+│ └── marketplace.md
+│
+└── /indicators
+├── forge-macro-compass.pine
+└── upcoming-tools.md
