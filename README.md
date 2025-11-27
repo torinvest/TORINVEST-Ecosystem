@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="TORINVEST Banner"/>
+</p>
+
+
 # 🔥 TORINVEST – The Forge Ecosystem  
 ### Trading • Macro • Discipline • Crypto • Savoir • Innovation
 
