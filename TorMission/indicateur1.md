@@ -1,3 +1,6 @@
+![Macro Vision Intraday](../assets/macrovisionintra-fr.png)
+
+
 # TorMission – Hub de participation
 Programme communautaire Torinvest autour de l'indicateur **Macro Vision Intraday™**
 
