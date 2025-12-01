@@ -1,4 +1,5 @@
 ![Macro Vision Intraday](../assets/macrovisionintra-fr.png)
+![Macro Vision Intraday](../assets/macrovisionintra-eng.png)
 
 
 # TorMission – Hub de participation
