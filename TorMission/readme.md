@@ -23,7 +23,7 @@ L'objectif principal : **améliorer l'indicateur en conditions réelles** avec l
 ## 🧭 Comment participer ?
 
 1. **Rejoindre le Discord Torinvest**  
-   (canal `[#tormission-hub] https://discord.com/channels/1160182775345860698/1445176585689763910` pour les annonces et `[#tormission-missions] https://discord.com/channels/1160182775345860698/1445177512622555226` pour les missions détaillées)
+   (canal *[#tormission-hub] https://discord.com/channels/1160182775345860698/1445176585689763910* pour les annonces et *[#tormission-missions] https://discord.com/channels/1160182775345860698/1445177512622555226* pour les missions détaillées)
 
 2. **Ajouter l'indicateur Macro Vision Intraday™ sur TradingView**  
    - L'indicateur est accessible via le compte Torinvest ou via un lien partagé dans le hub.
