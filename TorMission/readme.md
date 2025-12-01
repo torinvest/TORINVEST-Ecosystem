@@ -124,7 +124,7 @@ TorMission est organisé par phases.
 - Discord Torinvest : *[Discord Torinvest](https://discord.gg/5mSC8gFsT7)*
 - Indicateur Macro Vision Intraday™ : *[Indicateur MVI](https://fr.tradingview.com/script/q0X6fAGV/)*   
 - Dépôt GitHub : *(URL du repo)*
-- Page officielle TorMission : *([tormission.html](https://www.torinvest-trading.com/tormission)*
+- Page officielle TorMission : *[tormission.html](https://www.torinvest-trading.com/tormission)*
 
 ---
 
