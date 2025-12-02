@@ -98,5 +98,5 @@ Discord Torinvest : lien
 
 Site officiel : https://torinvest-trading.com
 
-Real Yield Gold Bias (indicateur) : [lien](https://fr.tradingview.com/script/yncHeaeU/)
+Indicateur : [Real Yield Gold Bias](https://fr.tradingview.com/script/yncHeaeU/)
 
