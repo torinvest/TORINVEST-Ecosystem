@@ -94,7 +94,7 @@ Documenter des cas réels en conditions de marché
 
 🔗 Liens utiles
 
-Discord Torinvest : lien
+Communauté : [Discord Torinvest](https://discord.gg/5mSC8gFsT7)
 
 Site officiel : https://torinvest-trading.com
 
