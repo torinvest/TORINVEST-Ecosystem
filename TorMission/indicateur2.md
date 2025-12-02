@@ -90,3 +90,13 @@ Ajouter de nouveaux proxies taux réels
 Documenter des cas réels en conditions de marché
 
 🎁 Les missions validées donnent des tokens Torinvest.
+
+
+🔗 Liens utiles
+
+Discord Torinvest : lien
+
+Site officiel : https://torinvest-trading.com
+
+Real Yield Gold Bias (indicateur) : [lien](https://fr.tradingview.com/script/yncHeaeU/)
+
