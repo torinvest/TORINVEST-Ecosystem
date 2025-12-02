@@ -443,3 +443,11 @@ Tu obtiens en un seul coup d’œil :
 🔎 Si le marché prépare un piège ou un mouvement propre
 
 C’est un GPS du marché, un indicateur que les débutants comprennent immédiatement et que les avancés peuvent optimiser.
+
+🔗 Liens utiles
+
+Communauté : [Discord Torinvest](https://discord.gg/5mSC8gFsT7)
+
+Site officiel : https://torinvest-trading.com
+
+Indicateur : [Macro Vision Intraday](https://fr.tradingview.com/script/q0X6fAGV/)
