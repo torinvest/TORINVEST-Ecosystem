@@ -100,3 +100,4 @@ Site officiel : https://torinvest-trading.com
 
 Indicateur : [Real Yield Gold Bias](https://fr.tradingview.com/script/yncHeaeU/)
 
+
